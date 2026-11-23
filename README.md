@@ -20,7 +20,7 @@ PATCH absent or `-` reads standard input. Node 22 and its standard library only:
 - `main.ts`: the CLI.
 - `tests/edge.ts`: edge cases from the specification (`node tests/edge.ts`).
 - `runner.ts`, `check.ts`: the make.fun kit's trial runner and practice checker
-  (`node check.ts <kit>/program/generator/practice.json`).
+  (`node check.ts <kit>/program/generator/practice.json`), MIT, Copyright (c) 2026 the make.fun team.
 
 ---
 
